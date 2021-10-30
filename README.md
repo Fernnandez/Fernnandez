@@ -1,6 +1,9 @@
-<h1 align="center"> Seja bem vinda e bem vindo! </h1>
+<div>
+  <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 
-<a href="https://app.daily.dev/Fernnandez"><img src="https://api.daily.dev/devcards/ce4b9b6ff5c24344953a48bdab303029.png?r=kym" width="400" alt="Angelo Fernandes 's Dev Card"/></a>
+  <a href="https://app.daily.dev/Fernnandez"><img src="https://api.daily.dev/devcards/ce4b9b6ff5c24344953a48bdab303029.png?r=kym" width="400" alt="Angelo Fernandes 's Dev Card"/></a>
+<div/>
+
 
 <hr />
 <p align="left" > 
