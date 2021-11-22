@@ -24,12 +24,9 @@ Estou diariamente estudando e práticando para melhorar minha habilidade e conhe
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em ajudar no que puder;
 - 📝 Veja meu <a href="https://drive.google.com/file/d/15r3fwjbNxJD0h63D6ccUS-OBtoC9FPG1/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
-<p>
+
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernnandez&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
-</p>
-<p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernnandez&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
-</p>
 
 **Linguagens e ferramentas:**  
 
