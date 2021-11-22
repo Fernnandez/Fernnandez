@@ -13,54 +13,11 @@ Me chamo <b>Angelo Fernandes</b> sou de Pernambuco.
 </p>
 
 <p align="left" >
-Sou Aluno do IFPE Campus Igarassu no curso de Sistemas para Internet.<br />
-Possuo maior afinidade e experiência com o desenvolvimento Front-End e estou me preparando cada vez mais para buscar minha primeira oportunidade na área como <b>Desenvolvedor Front-End </b>.
+Atualmente Sou desenvolvedor Fullstack junior Javascript e Aluno do IFPE Campus Igarassu no curso de Sistemas para Internet.<br />
+Estou diariamente estudando e práticando para melhorar minha habilidade e conhecimento na área.
 </p>
-
-<p align="left" >
-Meu primeiro projeto com ReactJs para iniciar os estudos da tecnologia
-</p>
-<p align="center" > <b>Clone da Interface Netflix com React</b></br>
-<a href="https://github.com/Fernnandez/Netflix-Clone-React" target="_blank">
-  <img src="https://github.com/Fernnandez/Netflix-Clone-React/raw/master/.github/Netflix-new-icon.png" width="48px" height="48px" >
-</a>
-</p>
-
-
-
-<p align="left" >
-Quando sobra um tempo eu estudo um pouco sobre back e arrisco juntar com os estudos de front em projetos como o RockteQ 
-</p>
-<p align="center" >
-<a href="https://github.com/Fernnandez/RocketQ-nlw06" target="_blank">
-  <img src="https://github.com/Fernnandez/RocketQ-nlw06/raw/master/.github/rocketq.png" >
-</a>
-</p>
-<p align="left" >
-🚀 As plataformas que mais auxiliam meus estudos são:
-  <ul>
-  <li> Rocketseat </li>
-  <li> Digital Innovation One </li>
-</ul>
-</p>
-</p>
-
-<div align ="center">
-<a href="https://www.linkedin.com/in/angelo-oliveira-905b061b4/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-<a href="https://www.instagram.com/fern_anndes/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a>
-<a href="https://github.com/Fernnandez" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a>
-</div>
-
-<hr />
 
 **Meus interesses pessoais:**
-
 
 - 👩‍💻 Estou estudando frontend com **ReactJs**,e utilizando o framework **Node.js**; 
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
