@@ -13,24 +13,14 @@ Me chamo <b>Angelo Fernandes</b> sou de Pernambuco.
 </p>
 
 <p align="left" >
-Atualmente Sou desenvolvedor Fullstack junior Javascript e Aluno do IFPE Campus Igarassu no curso de Sistemas para Internet.<br />
-Estou diariamente estudando e práticando para melhorar minha habilidade e conhecimento na área.
+Atualmente Sou desenvolvedor Fullstack Javascript junior na Omega Energia <br/> e Aluno do IFPE Campus Igarassu no curso de Sistemas para Internet.<br/>
 </p>
 
-**Meus interesses pessoais:**
-
-- 👩‍💻 Estou estudando frontend com **ReactJs**,e utilizando o framework **Node.js**; 
-- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+- 👩‍💻 Estudo e trabalho diariamendo com NodeJS e ReactJS; 
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em ajudar no que puder;
-- 📝 Veja meu <a href="https://drive.google.com/file/d/15r3fwjbNxJD0h63D6ccUS-OBtoC9FPG1/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernnandez&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernnandez&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
-
-**Linguagens e ferramentas:**  
-
-<p align="left">
+  **Linguagens e ferramentas:**   
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -43,6 +33,18 @@ Estou diariamente estudando e práticando para melhorar minha habilidade e conhe
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </p>
+  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernnandez&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-         Ströngreen"/>
+</p>
+  
+<p align="center">
+   <a href="https://www.linkedin.com/in/angelo-oliveira-905b061b4/" target="_blank">
+      <img align="center" alt="hugo-linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+</p>
+
+
 
 
 
