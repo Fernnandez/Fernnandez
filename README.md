@@ -34,9 +34,15 @@ Atualmente Sou desenvolvedor Fullstack Javascript na Omega Energia <br/> e Aluno
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </p>
   
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernnandez&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-         Ströngreen"/>
+<div align='center'>
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernnandez&layout=compact&theme=dark&title_color=268bd2"/>
 </p>
+<p> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernnandez&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" />
+</p>
+</div>  
+
   
 <p align="center">
    <a href="https://www.linkedin.com/in/angelo-oliveira-905b061b4/" target="_blank">
