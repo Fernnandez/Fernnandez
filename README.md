@@ -16,7 +16,7 @@ Me chamo <b>Angelo Fernandes</b> sou de Pernambuco.
 Atualmente Sou desenvolvedor Fullstack Javascript na Omega Energia <br/> e Aluno do IFPE Campus Igarassu no curso de Sistemas para Internet.<br/>
 </p>
 
-- 👩‍💻 Estudo e trabalho diariamendo com NodeJS e ReactJS; 
+- 👩‍💻 Estudo e trabalho diariamente com NodeJS e ReactJS; 
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em ajudar no que puder;
 
   **Linguagens e ferramentas:**   
